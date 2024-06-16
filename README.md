@@ -42,3 +42,9 @@ The API includes error handling for common HTTP errors and internal server error
    ```bash
    git clone https://github.com/your-username/your-repo.git
    cd your-repo
+## Install Dependencies
+
+To install the required dependencies, run the following command:
+
+```bash
+pip install -r requirements.txt
